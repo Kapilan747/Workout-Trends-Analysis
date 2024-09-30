@@ -15,9 +15,9 @@ This project analyzes workout trends from 2018 to 2023, focusing on home and gym
 
 ## Usage
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kapilan747/Workout-Trends-Analysis.git
-   ```
+  ```bash
+  git clone https://github.com/Kapilan747/Workout-Trends-Analysis.git
+  ```
 2.Install the required libraries:
   ```bash
   pip install pandas numpy seaborn
