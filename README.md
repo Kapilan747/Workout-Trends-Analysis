@@ -23,6 +23,7 @@ This project analyzes workout trends from 2018 to 2023, focusing on home and gym
   pip install pandas numpy seaborn
   ```
 3.Place the dataset in the data folder.
+
 4.Open the Jupyter Notebook:
   ```bash
   jupyter notebook notebook.ipynb
